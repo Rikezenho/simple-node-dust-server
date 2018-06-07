@@ -1,0 +1,21 @@
+{
+  "title": "Produtos",
+  "products": [
+    {
+      "name": "Produto 1",
+      "price": "R$ 500,00"
+    },
+    {
+      "name": "Produto 2",
+      "price": "R$ 300,00"
+    },
+    {
+      "name": "Produto 3",
+      "price": "R$ 600,00"
+    },
+    {
+      "name": "Produto 4",
+      "price": "R$ 200,00"
+    }
+  ]
+}
